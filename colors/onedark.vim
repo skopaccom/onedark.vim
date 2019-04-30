@@ -452,7 +452,7 @@ call s:h("phpConstants", { "fg": s:dark_yellow })
 " Ruby
 call s:h("rubyBlockParameter", { "fg": s:red})
 call s:h("rubyBlockParameterList", { "fg": s:red })
-call s:h("rubyClass", { "fg": s:purple})
+call s:h("rubyClass", { "fg": s:red})
 call s:h("rubyConstant", { "fg": s:yellow})
 call s:h("rubyControl", { "fg": s:purple })
 call s:h("rubyEscape", { "fg": s:red})
